@@ -1,7 +1,7 @@
 import { Post, Author } from '../types';
 
 const defaultAuthor: Author = {
-  name: "Dr. João",
+  name: "Dr. João horácio",
   role: "Cardiologista",
   avatar: "https://picsum.photos/seed/doctor/150/150",
   bio: "Especialista em saúde cardiovascular com mais de 15 anos de experiência clínica."
